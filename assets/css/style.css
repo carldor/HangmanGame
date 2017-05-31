@@ -1,0 +1,30 @@
+p{
+font-family: 'Indie Flower', cursive;
+/*font-size: 64px;*/
+}
+
+#title_left, #title_right{
+font-family: 'Mogra', cursive;
+/*font-size: 64px;*/
+}
+
+#title_left {
+	text-align: right;
+	background-color: black;
+	color: white;
+
+}
+
+#title_right {
+	text-align: left;
+	background-color: white;
+}
+
+#info, #score, #word, #remaining, #guesses{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+#score, #word, #remaining, #guesses{
+	font-size: 32px;
+}
